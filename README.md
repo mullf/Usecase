@@ -1,7 +1,7 @@
 # Use case Diagram, Activity Diagram, Sequence Diagram Payment of Sale System
 ## Penjualan Baju Online
 ## A. Use Case
-![usecase](https://github.com/mullf/Usecase/assets/115521049/454c6f7f-24fc-4ae0-847a-be8c4add9dc0)
+![Usecase](https://github.com/mullf/Usecase/assets/115521049/769a8ec2-318c-4d8a-a06e-8e30738e6d84)
 ## B. Activity Diagram
 ![activity diagram](https://github.com/mullf/Usecase/assets/115521049/d17ca960-5586-4dc8-b7d4-21232edc378a)
 ## C. Sequence Diagram 
